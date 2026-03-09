@@ -1,5 +1,5 @@
-# 💫 About Me:
- Hi👋 I'm HARSH SHARMA<br>“From Java Foundations to Generative AI: Building Intelligent Applications and Modern Full-Stack Systems”<br>🌱 I’m currently learning JAVA DSA, SpringBoot, Generative AI<br>📫 How to reach me: iknowharsh2024@gmail.com
+<h1 align='center'>Hi👋 I'm Harsh Sharma</h1>
+ “From Java Foundations to Generative AI: Building Intelligent Applications and Modern Full-Stack Systems”<br>🌱 I’m currently learning JAVA DSA, SpringBoot, Generative AI<br>📫 How to reach me: iknowharsh2024@gmail.com
                                          <br>
 
 
