@@ -1,5 +1,5 @@
 <h1 align='center'>Hi👋 I'm Harsh Sharma</h1>
- “From Java Foundations to Generative AI: Building Intelligent Applications and Modern Full-Stack Systems”<br>🌱 I’m currently learning JAVA DSA, SpringBoot, Generative AI<br>📫 How to reach me: iknowharsh2024@gmail.com
+ “From Java Foundations to Generative AI: Building Intelligent Applications and Modern Full-Stack Systems”<br>🌱 I’m currently learning <b>JAVA DSA, SpringBoot, Generative AI</b><br>📫 How to reach me: <a href= 'mailto:iknowharsh2024@gmail.com'>iknowharsh2024@gmail.com</a>
                                          <br>
 
 
